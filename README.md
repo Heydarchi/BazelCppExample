@@ -8,3 +8,7 @@ This example shows how much it's easy and simple to setup a C++ project with Baz
 >bazel build //app:test_app
 
 Then the path of the runnable app will be printed.
+
+Here you can find a short article of the project.
+
+https://medium.com/@heydarchi/my-first-experience-with-bazel-similarity-to-android-bp-de4312564970
